@@ -1,4 +1,4 @@
-Name: Carson Mifsud (1089936)
+Name: 
 Date: 2020-10-19
 Description:  This program is an eStore simulator which allows a user to add new books and electronics
               to the store. The user also has the ability to search for a book or electronic
