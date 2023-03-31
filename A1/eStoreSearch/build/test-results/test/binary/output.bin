@@ -1,0 +1,12 @@
+QTest setPublisher and getPublisher methods with a publisher of String data type
+ETest setPrice and getPrice methods with a price of double data type
+CTest setYear and getYear methods with a year of integer data type
+WTest setDescription and getDescription methods with a description of String data type
+CTest setYear and getYear methods with a year of integer data type
+ETest setPrice and getPrice methods with a price of double data type
+RTest setProductID and getProductID methods with a productID of integer data type
+	RTest setProductID and getProductID methods with a productID of integer data type
+
+HTest setAuthors and getAuthors methods with authors of tring data type
+HTest setAuthors and getAuthors methods with authors of tring data type
+WTest setDescription and getDescription methods with a description of String data type

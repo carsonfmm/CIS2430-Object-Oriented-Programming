@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="eStoreSearch.eStoreSearchTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-11-05T16:11:02" hostname="DESKTOP-80QS3TO" time="0.011">
+  <properties/>
+  <testcase name="testSetPublisherBook" classname="eStoreSearch.eStoreSearchTest" time="0.006"/>
+  <testcase name="testSetPriceElectronic" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testSetYearElectronic" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testSetDescriptionBook" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testSetYearBook" classname="eStoreSearch.eStoreSearchTest" time="0.001"/>
+  <testcase name="testSetPriceBook" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testSetProductIDElectronic" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testSetProductIDBook" classname="eStoreSearch.eStoreSearchTest" time="0.001"/>
+  <testcase name="testSetAuthorsBook" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testSetAuthorsElectronic" classname="eStoreSearch.eStoreSearchTest" time="0.001"/>
+  <testcase name="testSetDescriptionElectronic" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <system-out><![CDATA[Test setPublisher and getPublisher methods with a publisher of String data type
+Test setPrice and getPrice methods with a price of double data type
+Test setYear and getYear methods with a year of integer data type
+Test setDescription and getDescription methods with a description of String data type
+Test setYear and getYear methods with a year of integer data type
+Test setPrice and getPrice methods with a price of double data type
+Test setProductID and getProductID methods with a productID of integer data type
+Test setProductID and getProductID methods with a productID of integer data type
+Test setAuthors and getAuthors methods with authors of tring data type
+Test setAuthors and getAuthors methods with authors of tring data type
+Test setDescription and getDescription methods with a description of String data type
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
