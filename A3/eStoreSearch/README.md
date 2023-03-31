@@ -15,7 +15,7 @@ price = "(price of product)"
 year = "(year of product)"
 maker = "(maker of product)"
 
-Name: Carson Mifsud (1089936)
+Name: 
 Date: 2020-11-30
 Description:  This program is an eStore simulator which allows a user to add new books and electronics
               to the store. The user also has the ability to search for a book or electronic
