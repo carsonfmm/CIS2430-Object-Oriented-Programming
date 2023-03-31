@@ -1,6 +1,0 @@
-LabExerciseOne/App.java
- LabExerciseOne.src.test.java.LabExerciseOne.App
-LabExerciseOne/AppTest.java
- LabExerciseOne.src.test.java.LabExerciseOne.AppTest
-LabExerciseOne/Test.java
- LabExerciseOne.src.test.java.LabExerciseOne.Test
