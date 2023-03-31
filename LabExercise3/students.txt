@@ -1,0 +1,5 @@
+CompSci 1 97.6 JSmith 1 MAC
+CompSci 6 98.3 JSmith 0 Guelph
+ARTH 7 87.6 LWill 0 MAC
+SoftEng 2 67.7
+CompSci 3 89.3 JWhite 1 MAC

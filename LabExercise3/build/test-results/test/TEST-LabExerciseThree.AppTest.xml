@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LabExerciseThree.AppTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-10-29T14:08:46" hostname="DESKTOP-80QS3TO" time="0.004">
+  <properties/>
+  <testcase name="testSetYear" classname="LabExerciseThree.AppTest" time="0.003"/>
+  <testcase name="testSetProgram" classname="LabExerciseThree.AppTest" time="0.0"/>
+  <testcase name="testSetGrade" classname="LabExerciseThree.AppTest" time="0.0"/>
+  <system-out><![CDATA[Test setYear method with a year of integer data type
+Test setProgram method with a program of String data type
+Test setGrade method with a grade of double data type
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
