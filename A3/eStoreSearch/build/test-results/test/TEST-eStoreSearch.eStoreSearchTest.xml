@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="eStoreSearch.eStoreSearchTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2020-12-01T00:04:13" hostname="DESKTOP-80QS3TO" time="0.016">
+  <properties/>
+  <testcase name="testSetPublisherBook" classname="eStoreSearch.eStoreSearchTest" time="0.007"/>
+  <testcase name="testSetPriceElectronic" classname="eStoreSearch.eStoreSearchTest" time="0.001"/>
+  <testcase name="testSetYearElectronic" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testDuplicateProductIDs" classname="eStoreSearch.eStoreSearchTest" time="0.001"/>
+  <testcase name="testSetDescriptionBook" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testSetYearBook" classname="eStoreSearch.eStoreSearchTest" time="0.001"/>
+  <testcase name="testYourBook" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testYourSearch1" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testYourSearch2" classname="eStoreSearch.eStoreSearchTest" time="0.001"/>
+  <testcase name="testSetPriceBook" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testSetProductIDElectronic" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testYourWrite" classname="eStoreSearch.eStoreSearchTest" time="0.001"/>
+  <testcase name="testSetProductIDBook" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testSetAuthorsBook" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <testcase name="testSetAuthorsElectronic" classname="eStoreSearch.eStoreSearchTest" time="0.001"/>
+  <testcase name="testYourElectronic" classname="eStoreSearch.eStoreSearchTest" time="0.001"/>
+  <testcase name="testSetType" classname="eStoreSearch.eStoreSearchTest" time="0.001"/>
+  <testcase name="testSetDescriptionElectronic" classname="eStoreSearch.eStoreSearchTest" time="0.0"/>
+  <system-out><![CDATA[Test setPublisher and getPublisher methods with a publisher of String data type
+Test setPrice and getPrice methods with a price of double data type
+Test setYear and getYear methods with a year of integer data type
+Test if no duplicate productIDs are allowed to be added
+Test setDescription and getDescription methods with a description of String data type
+Test setYear and getYear methods with a year of integer data type
+Test yourBook method with all attributes
+Test yourSearch method with a productID and keyword(s) using a sample electronic
+Test yourSearch method with a productID and time period using a sample electronic
+Test setPrice and getPrice methods with a price of double data type
+Test setProductID and getProductID methods with a productID of integer data type
+Test yourWrite method with a string containing the file name
+Test setProductID and getProductID methods with a productID of integer data type
+Test setAuthors and getAuthors methods with authors of tring data type
+Test setAuthors and getAuthors methods with authors of string data type
+Test yourElectronic method with all attributes
+Test setType and getType methods with a type of String data type
+Test setDescription and getDescription methods with a description of String data type
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

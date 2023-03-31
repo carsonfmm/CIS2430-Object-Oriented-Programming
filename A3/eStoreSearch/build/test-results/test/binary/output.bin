@@ -1,0 +1,19 @@
+QTest setPublisher and getPublisher methods with a publisher of String data type
+ETest setPrice and getPrice methods with a price of double data type
+CTest setYear and getYear methods with a year of integer data type
+9Test if no duplicate productIDs are allowed to be added
+WTest setDescription and getDescription methods with a description of String data type
+CTest setYear and getYear methods with a year of integer data type
+*Test yourBook method with all attributes
+	RTest yourSearch method with a productID and keyword(s) using a sample electronic
+
+STest yourSearch method with a productID and time period using a sample electronic
+ETest setPrice and getPrice methods with a price of double data type
+RTest setProductID and getProductID methods with a productID of integer data type
+>Test yourWrite method with a string containing the file name
+RTest setProductID and getProductID methods with a productID of integer data type
+HTest setAuthors and getAuthors methods with authors of tring data type
+ITest setAuthors and getAuthors methods with authors of string data type
+0Test yourElectronic method with all attributes
+BTest setType and getType methods with a type of String data type
+WTest setDescription and getDescription methods with a description of String data type
