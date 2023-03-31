@@ -1,2 +1,0 @@
-LabExerciseTwo/AppTest.java
- LabExerciseTwo.AppTest
