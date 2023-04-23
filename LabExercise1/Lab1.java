@@ -8,7 +8,6 @@ public class Lab1 {
 
         // Description: This program allows the user to store up to 10 sentences in an array, and select several options in relation to that array.
         // Author: Carson Mifsud
-        // E-mail address: cmifsud@uoguelph.ca
         // Last changed: 24/09/2020
 
         String[] userInput = new String[10];
